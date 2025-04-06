@@ -24,7 +24,7 @@ const CTASection = () => {
                 className="w-full min-[400px]:w-auto bg-linear-to-r from-slate-900 to-rose-500 hover:from-rose-500 hover:to-slate-900 text-white transition-all duration-300"
               >
                 <Link
-                  href="/pricing"
+                  href="/#pricing"
                   className="flex items-center justify-center"
                 >
                   Get Started{" "}
